@@ -1,20 +1,5 @@
 **깃허브** 사용법 연습
 
-### 링크 삽입
-1. 링크 주소 
-
-
-<https://blog.naver.com/choko216>
-
-2. 링크 텍스트 + 링크 주소
-
-
-[내블로그](https://blog.naver.com/choko216)
-
-3. 링크 텍스트 + 링크 주소, 부가 설명
-
-
-[내블로그](https://blog.naver.com/choko216, "내블로그")
 
 
 원하는 내용을 입력하세요
